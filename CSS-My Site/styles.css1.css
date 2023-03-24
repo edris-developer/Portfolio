@@ -1,0 +1,320 @@
+
+
+
+
+
+
+body{
+    margin: 0px;
+    text-align: center;
+    ;
+}
+
+h1{
+    margin-top: 0;
+    margin-top: 20px;
+    font-family: 'Sacramento', cursive;
+    font-size: 3.80rem;
+    margin: 50px auto 0;
+    color:   #eaf4ff  ;
+    
+   
+}
+
+p{
+    /* font-family: 'Montserrat Subrayada', sans-serif; */
+    font-size: small;
+    line-height: 2;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: medium;
+}
+
+.another-color{
+    color: #eaf4ff;
+    
+    font-size: 10px
+}
+
+h2{
+    font-family: 'Montserrat Subrayada', sans-serif;
+    font-size: 1.9rem;
+    color: #11999E;
+    font-weight: normal;
+    padding-bottom: 10px;
+    color: #4b3832;
+}
+
+.Contact-message{
+    width: 40%;
+    margin: 40px auto 40px;
+}
+
+.my-name{
+    font-size: 0.75rem;
+    color: #eaf6f6;
+    padding: 20px 0;
+}
+
+hr{
+    border: dotted 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 40px auto 60px auto
+}
+
+.intro{
+    width: 30%;
+    margin: auto;
+}
+
+h3{
+    font-family: 'Montserrat Subrayada', sans-serif;
+    font-size: large;
+    
+    
+}
+
+.skill-row{
+    width: 50%;
+    margin: 50px auto 100px auto;
+    text-align: left;
+}
+
+.bottom-cloud{
+    position: absolute;
+    
+}
+
+.top-cloud{
+    position: relative;
+    left: 290px;
+    top: 40px;
+}
+
+.linje{
+    border: solid black 5px ;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.middle-container{
+    margin: 100px 0;
+    background-color: #d6ae7b;
+    color: #4b3832;
+
+}
+
+
+
+.top-container{
+    background-color:  #80BDE3 ;
+}
+
+.bottom-container{
+    background-color:#80BDE3;
+    padding: 50px 0 20px;
+}
+
+a{
+    color: #11999E;
+    font-family: 'Montserrat Subrayada', sans-serif;
+    margin: 10px 20px;
+}
+
+a:hover{
+    color: #eaf6f6;;
+}
+
+
+
+.Edris{
+    width: 250px;
+    border-radius: 50px;
+    height: 300px;
+    padding-top: 30px;
+}
+
+.coding{
+    border-radius: 100px;
+    width: 40%;
+    float: left;
+    margin-right: 30px;
+}
+
+
+.Fire{
+    width: 200px;
+    border-radius: 100px;
+    width: 40%;
+    float: right;
+    margin-left: 30px;
+}
+
+
+.btn {
+    background: #854442;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    border-color: #d6ae7b ;
+    border-style: solid;
+    border-width: 2;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;  
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .btn:hover {
+    background: #854442 ;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
+
+  /* font-family: 'Montserrat', sans-serif; */
+
+
+
+  .info{
+    margin-top: 700px;
+    
+    color: black;
+  }
+
+
+  #f1c27d
+
+  .färger{
+    color: black;
+    
+    
+  }
+
+  .meowi{
+    
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    
+  }
+
+  button{
+      margin-bottom: 60px;
+  }
+
+  .nummer1, .nummer2, .nummer3{
+    border-radius: 50px;
+    background-color: black;
+  }
+
+
+
+
+  fieldset{
+    position: absolute;
+    left:410px;
+    margin: 100px;
+    margin-top: 5px ;
+  }
+
+
+
+  
+
+  .kontakt{
+    background-color: #80BDE3;
+    
+  }
+
+  
+  body {
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    background-color: #854442 ;
+    color: #f5f6f7;
+    font-family: Tahoma;
+    font-size: 16px;
+  }
+  
+  h1, p {
+    margin: 1em auto;
+    text-align: center;
+  }
+  
+  form {
+    width: 60vw;
+    max-width: 500px;
+    min-width: 300px;
+    margin: 0 auto;
+    padding-bottom: 2em;
+  }
+  
+  fieldset {
+    border: none;
+    padding: 2rem 0;
+    border-bottom: 3px solid #3b3b4f;
+  }
+  
+  fieldset:last-of-type {
+    border-bottom: none;
+  }
+  
+  label {
+    display: block;
+    margin: 0.5rem 0;
+  }
+  
+  input,
+  textarea,
+  select {
+    margin: 10px 0 0 0;
+    width: 100%;
+    min-height: 2em;
+  }
+  
+  input, textarea {
+    background-color: #0a0a23;
+    border: 1px solid #0a0a23;
+    color: #ffffff;
+  }
+  
+  .inline {
+    width: unset;
+    margin: 0 0.5em 0 0;
+    vertical-align: middle;
+  }
+  
+  input[type="submit"] {
+    display: block;
+    width: 60%;
+    margin: 1em auto;
+    height: 2em;
+    font-size: 1.1rem;
+    background-color: #3b3b4f;
+    border-color: white;
+    min-width: 300px;
+  }
+  
+  input[type="file"] {
+    padding: 1px 2px;
+  }
+  
+
+
+
+
+ 
+
